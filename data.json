@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phoneNumber": "1234567890",
+      "gender": "Male",
+      "address": "123 Main St, City"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "2345678901",
+      "gender": "Female",
+      "address": "456 Oak St, Town"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Brown",
+      "email": "alice.brown@example.com",
+      "phoneNumber": "3456789012",
+      "gender": "Female",
+      "address": "789 Pine St, Village"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "phoneNumber": "4567890123",
+      "gender": "Male",
+      "address": "101 Maple St, Suburb"
+    },
+    {
+      "id": 5,
+      "firstName": "Carol",
+      "lastName": "Taylor",
+      "email": "carol.taylor@example.com",
+      "phoneNumber": "5678901234",
+      "gender": "Female",
+      "address": "202 Elm St, Region"
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Anderson",
+      "email": "david.anderson@example.com",
+      "phoneNumber": "6789012345",
+      "gender": "Male",
+      "address": "303 Cedar St, Place"
+    },
+    {
+      "id": 7,
+      "firstName": "Eva",
+      "lastName": "Martinez",
+      "email": "eva.martinez@example.com",
+      "phoneNumber": "7890123456",
+      "gender": "Female",
+      "address": "404 Birch St, County"
+    },
+    {
+      "id": 8,
+      "firstName": "Frank",
+      "lastName": "Lee",
+      "email": "frank.lee@example.com",
+      "phoneNumber": "8901234567",
+      "gender": "Male",
+      "address": "505 Walnut St, District"
+    },
+    {
+      "id": 9,
+      "firstName": "Grace",
+      "lastName": "White",
+      "email": "grace.white@example.com",
+      "phoneNumber": "9012345678",
+      "gender": "Female",
+      "address": "606 Poplar St, Zone"
+    },
+    {
+      "id": 10,
+      "firstName": "Henry",
+      "lastName": "Walker",
+      "email": "henry.walker@example.com",
+      "phoneNumber": "0123456789",
+      "gender": "Male",
+      "address": "707 Ash St, Area"
+    }
+  ]
